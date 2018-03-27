@@ -19,6 +19,12 @@ Otherwise, you can refer to the [docs](https://docs.python.org/3/) or use a sear
   a list of jokes, and print a random joke from the website.
 
 
+## Solutions
+
+###### as of 26 Mar 2018
+
+https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/solutions
+
 ## Getting Setup
 
 If you need help getting set up in python, please talk to Dylan or someone familiar with python.
