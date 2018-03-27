@@ -7,7 +7,7 @@ Beginner Challenge 1
 
 # The Solution
 
-* please watch the youtube video (also provided above) if you need some help
+* please watch the youtube video if you need some help
 
 ```python
 """

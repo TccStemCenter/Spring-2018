@@ -1,6 +1,10 @@
 Spring 2018 Programming Challenges
 ==================================
 
+### challenges
+
+1. [Programming Challenge 1 - Random Joke Generator](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/solutions/beginner_challenge_1)
+
 ### how it works
 
 * Each folder above will contain a challenge that will be released biweekly.
