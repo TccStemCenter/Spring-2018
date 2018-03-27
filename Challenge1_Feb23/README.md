@@ -23,7 +23,7 @@ Otherwise, you can refer to the [docs](https://docs.python.org/3/) or use a sear
 
 ###### as of 26 Mar 2018
 
-https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/solutions
+[Beginner and Expert Solutions](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/solutions)
 
 ## Getting Setup
 
