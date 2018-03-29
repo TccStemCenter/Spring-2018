@@ -7,7 +7,7 @@ Expert Challenge 1
 
 # The Solution
 
-* please watch the youtube video if you need some help
+* please watch [the expert solution for challenge 1 on YouTube](https://www.youtube.com/watch?v=3MQFwp3_pV8) if you need some help
 
 ```python
 """
