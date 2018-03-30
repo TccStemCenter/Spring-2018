@@ -10,6 +10,7 @@ Below are challenges to help you get better at programming! Good luck, and let's
 ## Challenges
 
 1. [Programming Challenge 1 - Random Joke Generator](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/)
+2. [Programming Challenge 2 - Sine Wave and Graphing Calculator](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge2_Mar30)
 
 ## How it Works
 
