@@ -1,13 +1,15 @@
 Expert Challenge 1
 ==================
 
-# The Challenge
+## The Challenge
 
-* create a program that parses a joke website and print a random joke to the screen
+* Create a small web parser that grabs a joke from a joke website and print it to the screen.
+    - When run, your program should pull down a website that contains some jokes, parse a joke or list of jokes from that website, and print a randomly selected joke to the screen.
 
-# The Solution
+## The Solution
 
-* please watch [the expert solution for challenge 1 on YouTube](https://www.youtube.com/watch?v=3MQFwp3_pV8) if you need some help
+* Watch [the expert solution for challenge 1 on YouTube](https://www.youtube.com/watch?v=3MQFwp3_pV8) for a walk-through.
+    - This video explains how to install pycharm, setup a project, and create the small web parser to solve the challenge above.
 
 ```python
 """

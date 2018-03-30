@@ -11,23 +11,24 @@ Otherwise, you can refer to the [docs](https://docs.python.org/3/) or use a sear
 
 ## The Challenge
 
-* Create a program that, when run, displays a random joke on the screen.
+#### Beginner
 
-#### Expert Level
+* Create a random joke generator.
+    - When run, your program should print one random joke to the screen.
 
-* If you think this challenge is too easy, then as an extra challenge, try to create a program that can parse a website that contains
-  a list of jokes, and print a random joke from the website.
+#### Intermediate
+
+* Create a small web parser that grabs a joke from a joke website and print it to the screen.
+    - When run, your program should pull down a website that contains some jokes, parse a joke or list of jokes from that website, and print a randomly selected joke to the screen.
 
 
 ## Solutions
 
-###### as of 26 Mar 2018
+*as of 26 Mar 2018*
 
 [Beginner and Expert Solutions](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/solutions)
 
 ## Getting Setup
-
-If you need help getting set up in python, please talk to Dylan or someone familiar with python.
 
 The easiest solution is to use [repl.it](https://repl.it/) (note that you need to make an account) or [pythonfiddle.com](http://pythonfiddle.com/)
 
@@ -35,7 +36,5 @@ The best approach (especially if you are very interested in programming) is to d
 
 ## Good Luck!
 
-I wish you the best of luck! If you have any questions, don't hesitate to email Dylan at «dylnmc@gmail.com» or just ask him when he's around.
-
-~ cheers
+I wish you the best of luck! If you have any questions, don't hesitate to email Dylan at dylnmc@gmail.com.
 

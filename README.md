@@ -1,27 +1,33 @@
 Spring 2018 Programming Challenges
 ==================================
 
-### challenges
+### Programming Committee at TCC Stem Center
 
-1. [Programming Challenge 1 - Random Joke Generator](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/solutions/beginner_challenge_1)
+Welcome to the TCC STEM Center.
 
-### how it works
+Below are challenges to help you get better at programming! Good luck, and let's get programming!
 
-* Each folder above will contain a challenge that will be released biweekly.
+## Challenges
 
-* Each challenge has a challenge suitable for novice or intermediate programmers
-  as well as challenges for those that already have programming exprience
+1. [Programming Challenge 1 - Random Joke Generator](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/)
 
-* On every other Friday, the challenges will be released, and you may choose to
-  attempt the challenge at any point during the week.
-    - If you need any help, feel free to ask Dylan or another committee member
-      for help, or you can email dylnmc@gmail.com
+## How it Works
 
-* The solutions will be posted one week after the challenge is published so that
-  can verify your solution.
+The Challenges above will be issued once every other week.
+
+Each challenge has two parts:
+
+- __Beginner Challenge__: suitable for novice programmers
+- __Expert Challenge__: an addition to the beginner challenge to try even the best programmers :)
+
+On every other Friday, the challenges will be released, and you may choose to attempt the challenge at any point during the week.
+
+If you need any help, feel free to ask Dylan or another committee member for help, or you can email dylnmc@gmail.com.
+
+The solutions will be posted one week after the challenge is published so that can verify your solution. An additional walk-through video will be published with each challenge in case you get stuck. You should watch the videos, as they will give an in-depth overview as to how to solve the challenges, and can help you improve your coding. At the very least, you may learn something new.
 
 
-### things to keep in mind
+## Things to Keep in Mind
 
 1. Programming is Fun
     * This may sound silly, but it is important to keep in mind when you're getting
@@ -51,12 +57,10 @@ Spring 2018 Programming Challenges
       as this is one of the best ways to expose yourself to how others code and some
       of the conventions that exist.
 
-### have fun
+## Have Fun
 
 Even if you don't do every challenge and maybe only do the ones that pique your
 interest, I hope that you have fun and learn something new.
 
-If you have any questions, feel free to email Dylan at «dylnmc@gmail.com».
-
-~ let's get programming!
+If you have any questions, feel free to email Dylan at [dylnmc@gmail.com](mailto:dylnmc@gmail.com).
 
