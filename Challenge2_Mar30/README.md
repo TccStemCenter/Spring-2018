@@ -3,6 +3,8 @@ Programming Challenge 2
 
 ## The Challenge
 
+###### Sine Wave and Graphing Calculator
+
 #### Beginner
 
 * Create a program that prints out an ascii sine wave and that expects user input (or, optionally, command-line args) that dictate the `amplitude` and `wavelength` of the wave.
