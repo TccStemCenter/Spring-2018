@@ -26,13 +26,13 @@ Otherwise, you can refer to the [docs](https://docs.python.org/3/) or use a sear
 
 *as of 26 Mar 2018*
 
-[Beginner and Expert Solutions](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/solutions)
+[Beginner and Expert Solutions](https://tccstemcenter.github.io/Spring-2018/Challenge1_Feb23/solutions/)
 
 ## Getting Setup
 
-The easiest solution is to use [repl.it](https://repl.it/) (note that you need to make an account) or [pythonfiddle.com](http://pythonfiddle.com/)
+The easiest solution is to use [repl.it](https://repl.it/) or [pythonfiddle.com](http://pythonfiddle.com/)
 
-The best approach (especially if you are very interested in programming) is to download python 3 from [python.org](https://www.python.org/) so that you can run the programs in a terminal, or if you are not terminal-oriented, you can refer to [slant.co](https://www.slant.co/topics/366/~best-python-ides) for the best python IDEs, which make it really easy to run develop python scripts and execute them.
+The best approach (especially if you are very interested in programming) is to download python 3 from [python.org](https://www.python.org/) so that you can run the programs in a terminal, or if you are not terminal-oriented, you can refer to [slant.co](https://www.slant.co/topics/366/~best-python-ides) for the best python IDEs, which make it really easy to develop python scripts and execute them.
 
 ## Good Luck!
 

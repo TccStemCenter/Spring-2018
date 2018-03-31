@@ -7,10 +7,12 @@ Welcome to the TCC STEM Center.
 
 Below are challenges to help you get better at programming! Good luck, and let's get programming!
 
+For ease of viewing, view this page at [tccstemcenter.github.io/Spring-2018](https://tccstemcenter.github.io/Spring-2018/)
+
 ## Challenges
 
-1. [Programming Challenge 1 - Random Joke Generator](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge1_Feb23/)
-2. [Programming Challenge 2 - Sine Wave and Graphing Calculator](https://github.com/TccStemCenter/Spring-2018/tree/master/Challenge2_Mar30)
+1. [Programming Challenge 1 - Random Joke Generator](https://tccstemcenter.github.io/Spring-2018/Challenge1_Feb23/)
+2. [Programming Challenge 2 - Sine Wave and Graphing Calculator](https://tccstemcenter.github.io/Spring-2018/Challenge2_Mar30/)
 
 ## How it Works
 
@@ -22,8 +24,6 @@ Each challenge has two parts:
 - __Expert Challenge__: an addition to the beginner challenge to try even the best programmers :)
 
 On every other Friday, the challenges will be released, and you may choose to attempt the challenge at any point during the week.
-
-If you need any help, feel free to ask Dylan or another committee member for help, or you can email dylnmc@gmail.com.
 
 The solutions will be posted one week after the challenge is published so that can verify your solution. An additional walk-through video will be published with each challenge in case you get stuck. You should watch the videos, as they will give an in-depth overview as to how to solve the challenges, and can help you improve your coding. At the very least, you may learn something new.
 
