@@ -15,6 +15,12 @@ Programming Challenge 2
 * Create a simple graphing calculator.
     - When run, your program should expect user input, then it should parse the input and store it into, for example, Reverse Polish Notation (RPN), then graphically display the equation in a Graphical User Interface (GUI).
 
+## Solutions
+
+*as of 25 Mar 2018*
+
+[Beginner and Intermediate Solutions](https://tccstemcenter.github.io/Spring-2018/Challenge2_Mar30/solutions/)
+
 
 ## Getting Setup
 
